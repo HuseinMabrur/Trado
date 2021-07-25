@@ -1,0 +1,2 @@
+# Trado
+Font Arabic
